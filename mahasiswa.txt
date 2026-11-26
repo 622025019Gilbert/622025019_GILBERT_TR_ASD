@@ -1,0 +1,9 @@
+105|Raka Pratama|88
+102|Nadia Putri|94
+109|Bima Saputra|76
+101|Salsa Wijaya|91
+107|Dimas Nugroho|82
+103|Citra Lestari|67
+104|Fajar Hidayat|55
+106|Gita Maharani|79
+108|Hendra Kusuma|48
